@@ -12,7 +12,6 @@ Package.register_extension(
     var contents = fs.readFileSync(source_path);
     var options = {bare: true};
     contents = new Buffer(ls.compile(contents.toString('utf8'), options));
-    // XXX report coffee compile failures better?
 
     bundle.add_resource({
       type: "js",
