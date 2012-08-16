@@ -3,6 +3,6 @@
   "description": "Add support for LiveScript, a more functional take on Coffeescript.",
   "homepage": "https://github.com/imeckler/LiveScript-Meteor-Package",
   "author": "Izaak Meckler",
-  "version": "0.1",
+  "version": "0.1.0",
   "git": "https://github.com/imeckler/LiveScript-Meteor-Package.git"
 }
