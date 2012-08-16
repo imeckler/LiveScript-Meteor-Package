@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Adds support for LiveScript, a derivative of Coco which is a derivative of Coffeescript http://gkz.github.com/LiveScript."
+  summary: "Add support for LiveScript, a more functional take on Coffeescript."
 });
 
 var ls = require('livescript');
